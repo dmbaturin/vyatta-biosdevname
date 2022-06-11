@@ -2,16 +2,14 @@ This package was debianized by Bob Gilligan <gilligan@vyatta.com> on
 Wed, 03 Feb 2010 15:26:47 -0800
 
 It's original content from the GIT repository 
-   <http://vyatt.com/git/vyatta-biosdevname>
+   <https://github.com/dell/biosdevname>
 
 Upstream Author: 
 
-    <eng@vyatta.com>
+    Dell, Inc.  <Matt_Domsch@dell.com>
 
 Copyright: 
-
-    Copyright (C) 2010 Vyatta, Inc.
-    All Rights Reserved.
+  Copyright (c) 2006, 2007 Dell, Inc.  <Matt_Domsch@dell.com>
 
 License:
 
@@ -32,5 +30,5 @@ You can also obtain it by writing to the Free Software Foundation,
 Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston,
 MA 02110-1301, USA.
 
-The Debian packaging is (C) 2007, An-Cheng Huang <ancheng@vyatta.com> and
+The Debian packaging is (C) 2010, Bob Gilligan <gilligan@vyatta.com> and
 is licensed under the GPL, see above.
